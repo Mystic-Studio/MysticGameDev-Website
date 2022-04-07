@@ -2,6 +2,6 @@
 # This configuration has been tested with Unity 2020.1 builds, hosted on Apache/2.4
 # NOTE: "mod_mime" Apache module must be enabled for this configuration to work.
 <IfModule mod_mime.c>
-	# Uncomment the following line to improve loading performance for gzip-compressed builds with decompression fallback
-	AddEncoding gzip .unityweb
+	# The following line improves loading performance for uncompressed builds
+	AddType application/wasm .wasm
 </IfModule>
