@@ -5,3 +5,5 @@
 	# The following line improves loading performance for uncompressed builds
 	AddType application/wasm .wasm
 </IfModule>
+
+Header add Access-Control-Allow-Origin "*"
