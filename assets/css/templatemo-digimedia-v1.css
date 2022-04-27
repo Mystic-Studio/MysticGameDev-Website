@@ -994,7 +994,7 @@ Banner Style
   overflow: hidden;
 }
 
-.main-banner:after {
+/* .main-banner:after {
   content: '';
   background-image: url(../images/slider-left-dec.jpg);
   background-repeat: no-repeat;
@@ -1004,7 +1004,7 @@ Banner Style
   width: 262px;
   height: 625px;
   z-index: 1;
-}
+} */
 
 .main-banner:before {
   content: '';
@@ -2211,4 +2211,30 @@ responsive
   form#contact {
     padding: 30px;
   }
+}
+
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.video-wrapper {
+  /* Telling our absolute positioned video to 
+  be relative to this element */
+  position: relative;
+
+  width: 2000px;
+  height: max-content;
+
+  /* Will not allow the video to overflow the 
+  container */
+  overflow: hidden;
+
+  /* Centering the container's content vertically 
+  and horizontally */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
