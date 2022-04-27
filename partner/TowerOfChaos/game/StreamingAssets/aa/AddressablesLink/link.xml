@@ -35,7 +35,6 @@
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.UI.Image" preserve="all" />
     <type fullname="UnityEngine.UI.Mask" preserve="all" />
-    <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
@@ -50,7 +49,6 @@
     <type fullname="BigFoot" preserve="all" />
     <type fullname="CardData" preserve="all" />
     <type fullname="SmallSlime" preserve="all" />
-    <type fullname="ToolTipHandle" preserve="all" />
     <type fullname="Dracula" preserve="all" />
     <type fullname="Yeti" preserve="all" />
     <type fullname="WereWolve" preserve="all" />
@@ -65,7 +63,6 @@
     <type fullname="BotSpineEffect" preserve="all" />
     <type fullname="BloodThirstyBat" preserve="all" />
     <type fullname="Witch" preserve="all" />
-    <type fullname="ShowEffectItem" preserve="all" />
     <type fullname="WanderingSoul" preserve="all" />
     <type fullname="ShowEffectName" preserve="all" />
     <type fullname="EvilClock" preserve="all" />
