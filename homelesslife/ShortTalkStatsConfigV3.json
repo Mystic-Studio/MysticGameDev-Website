@@ -11,24 +11,227 @@
           "TalkDetailLst": [
             {
               "IsNPC": true,
-              "Msg": "Hello"
+              "Msg": "Này ông già kia, mượn tiền ba năm rồi mà không trả. Mau trả tiền đây."
             },
             {
-              "Msg": "Uk chao may"
-            },
-            {
-              "IsNPC": true,
-              "Msg": "Hello lan 2"
-            },
-            {
-              "Msg": "Chao cc"
+              "Msg": "Trời ơi, tiền đâu tôi trả trời ơi. Cho tôi xin khất thêm vài ngày nữa thôi."
             },
             {
               "IsNPC": true,
-              "Msg": "Khong chao thi thoi lam gi cang"
+              "Msg": "Chúng tao không thích nói nhiều nhé, một trả tiền hai tao tạt mắm tôm đấy."
             },
             {
-              "Msg": "Cut"
+              "Msg": "Giờ có tạt mắm nêm thì tôi cũng không có cái nịt mà trả."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Vậy tao lại cho mày một cái hạn, cuối tháng sau nếu mày không trả thì đừng trách sao tao ra tay tàn ác với vợ con mày."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "IsNPC": true,
+              "Msg": "Này ông Ăn xin, sắp đến Tết rồi, nợ tiền tôi cũng nên trả đi chứ, không thì Tết này tôi lấy tiền gì tiêu."
+            },
+            {
+              "Msg": "Cô thấy bây giờ tôi ra đường Ăn xin rồi, phải đi xin người ta từng đồng một, thì tiền đâu ra mà trả cho cô."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Tôi không cần biết, tôi thấy người ta cho ông nhiều tiền lắm, ông mau lấy đó trả cho tôi đi."
+            },
+            {
+              "Msg": "Cô nỡ lòng đòi tiền Ăn xin luôn sao."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Ông mà không trả cho tôi thì vài ngày nữa tôi cũng thành ăn xin giống ông."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Thôi, đừng gấp, tôi sẽ cố gắng làm việc, vài ngày nữa sẽ có tiền trả cô."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Sao lúc mượn thì nói ngon ngọt, giờ đòi thì ông hẹn này hẹn mai. Thôi được rồi, vài ngày nữa, tôi sẽ đến tiếp."
+            },
+            {
+              "Msg": "Cảm ơn cô, tôi chắc chắn sẽ trả cô."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "IsNPC": true,
+              "Msg": "Cục xì lầu ông bê lắc, sao ông ăn xin không lắc, lắc đi lắc đi"
+            },
+            {
+              "Msg": "Trời đất quỷ thần ơi, trại nào thả bệnh nhân vậy trời."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Tôi chơi đồ chứ tôi không phải bệnh nhân, đồ ngon lắm, ông chơi không?"
+            },
+            {
+              "Msg": "Ăn xin rồi, tiền đâu mà đú theo chơi đồ nữa má!"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Đồ tôi có, ông chơi đi, thử một lần là phê cả đời."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Thôi thôi, tôi không thử dù chỉ một lần, đừng dụ dỗ tôi nữa"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Haha, chơi đồ đi, chơi đồ vui lắm, chơi xong sẽ không còn nghèo nữa."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Bạn ơi đừng nghiện nữa, nhà mình còn gì đâu, có mỗi con wave tàu, mình cũng mang đi bắn cá. Lượn đê!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "IsNPC": true,
+              "Msg": "Chào ông, tôi nghe nói trước đây ông từng là tỷ phú."
+            },
+            {
+              "Msg": "Là tôi đây, chủ Fakebook tìm tôi có việc gì, nay tôi sa cơ rồi không có tiền thuê ads thủ đâu."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Haha, nay tôi đến đây để mời ông về làm ads thủ chúng tôi."
+            },
+            {
+              "Msg": "Lương cao và đóng BHXH đầy đủ tôi mới làm, còn không thì cửa ra bên trái, okay?"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Cha mẹ cho vàng cho bạc, không làm được nghề ads thủ, chuẩn lương cao, việc nhẹ."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Vậy thì kí hợp đồng thôi, vào việc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "IsNPC": true,
+              "Msg": "Ồ, chào đối thử một sống một còn của ta."
+            },
+            {
+              "Msg": "Thế ông tìm tôi có việc gì."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Ai rảnh đâu mà đến cà khịa hoài vậy."
+            },
+            {
+              "Msg": "Thôi tôi sẽ dành thời gian ngọc ngà quý báu nghe ông vậy."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Nay tôi buồn quá, đến tìm ông để tâm sự."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Sao hả. Ngọn gió nào đưa ông tới đây, lại đến cà khịa ta tiếp à. ai vợ chồng ông cãi nhau thế, nói toi nghe xem, tôi phân tích cho. 10. Thế tại sao cổ áo ông lại có vết son."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Hôm nay tôi và vợ lại cãi nhau, ông bạn ạ."
+            },
+            {
+              "Msg": "Vậy vợ ông giận là đúng rồi chứ gì nữa."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Vợ tôi phát hiện cổ áo tôi có vết son và thế là cãi nhau"
+            },
+            {
+              "Msg": " Duy trì cái kiểu của ông thì xứng đáng bị vợ bỏ."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Tôi đi công tác với thư ký riêng."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Tôi cũng chỉ muốn duy trì nòi giống thôi mà."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "IsNPC": true,
+              "Msg": "Người tàn ác thì được sống thảnh thơi, trông ông có vẻ nhàn nhã quá nhỉ."
+            },
+            {
+              "Msg": "Không có tiền chỉ có mạng, ông muốn lấy thì lấy"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Mạnh miệng nhỉ, không sợ tôi tạt mắm tôm nữa à"
+            },
+            {
+              "Msg": "Tạt mắm tôm thì đi tắm, có gì đâu mà phải sợ."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Haha, cũng phải thất bại đến vậy thì còn gì nữa đâu mà buồn."
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Thôi lượn giùm đi đồ cho vay nặng lãi xấu xa"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Ông cứ cố gắng lên nhé còn lâu mới đuổi kịp được tôi"
             }
           ]
         }
