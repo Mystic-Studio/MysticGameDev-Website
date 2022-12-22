@@ -1,0 +1,38 @@
+{
+  "ConfigName": "ShortTalkStatsConfigV3",
+  "Version": 0,
+  "Items": [
+    {
+      "Id": 0,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "IsNPC": true,
+              "Msg": "Hello"
+            },
+            {
+              "Msg": "Uk chao may"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Hello lan 2"
+            },
+            {
+              "Msg": "Chao cc"
+            },
+            {
+              "IsNPC": true,
+              "Msg": "Khong chao thi thoi lam gi cang"
+            },
+            {
+              "Msg": "Cut"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

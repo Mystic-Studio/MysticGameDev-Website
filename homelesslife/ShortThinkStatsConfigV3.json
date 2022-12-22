@@ -1,0 +1,23 @@
+{
+  "ConfigName": "ShortThinkStatsConfigV3",
+  "Version": 0,
+  "Items": [
+    {
+      "Id": 0,
+      "IsRepair": false,
+      "TalkLanguageLst": [
+        {
+          "LanguageId": 39,
+          "TalkDetailLst": [
+            {
+              "Msg": "Mot 2 ba"
+            },
+            {
+              "Msg": "Ta la cha duong pho"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ConfigName": "NPCShortThinkStatsConfigV3",
+  "Version": 0,
+  "Items": [
+    {
+      "Id": 0,
+      "TalkRateLst": [
+        {
+          "Id": 0,
+          "Rate": 100,
+          "TalkCount": -1
+        }
+      ]
+    }
+  ]
+}
